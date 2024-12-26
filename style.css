@@ -9,7 +9,7 @@
   order: 0;
   width: 100%;
   height: 100vh;
-  background-image: url("photos/brain.png");
+  background-image: url("assets/brain.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
