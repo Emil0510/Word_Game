@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import "./WordGame.css"; // Create a CSS file for styling
+import "./WordGame.css";
 
 const wordList = [
   { word: "python", hint: "programming language" },
@@ -7,7 +7,6 @@ const wordList = [
   { word: "aim", hint: "a purpose or intention" },
   { word: "venus", hint: "planet of our solar system" },
   { word: "gold", hint: "a yellow precious metal" },
-  // Add the rest of the words from your list here...
 ];
 
 const WordGame = () => {
