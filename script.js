@@ -1,199 +1,199 @@
 let wordList = [
   {
-    word: "python",
-    hint: "programming language",
+    word: "javascript",
+    hint: "a versatile programming language",
   },
   {
-    word: "guitar",
-    hint: "a musical instrument",
+    word: "piano",
+    hint: "a popular musical instrument",
   },
   {
-    word: "aim",
-    hint: "a purpose or intention",
-  },
-  {
-    word: "venus",
-    hint: "planet of our solar system",
-  },
-  {
-    word: "gold",
-    hint: "a yellow precious metal",
-  },
-  {
-    word: "ebay",
-    hint: "online shopping site",
-  },
-  {
-    word: "golang",
-    hint: "programming language",
-  },
-  {
-    word: "coding",
-    hint: "related to programming",
-  },
-  {
-    word: "matrix",
-    hint: "science fiction movie",
-  },
-  {
-    word: "bugs",
-    hint: "related to programming",
-  },
-  {
-    word: "avatar",
-    hint: "epic science fiction film",
-  },
-  {
-    word: "gif",
-    hint: "a file format for image",
-  },
-  {
-    word: "mental",
-    hint: "related to the mind",
-  },
-  {
-    word: "map",
-    hint: "diagram represent of an area",
-  },
-  {
-    word: "island",
-    hint: "land surrounded by water",
-  },
-  {
-    word: "hockey",
-    hint: "a famous outdoor game",
-  },
-  {
-    word: "chess",
-    hint: "related to a indoor game",
-  },
-  {
-    word: "viber",
-    hint: "a social media app",
-  },
-  {
-    word: "github",
-    hint: "code hosting platform",
-  },
-  {
-    word: "png",
-    hint: "a image file format",
-  },
-  {
-    word: "silver",
-    hint: "precious greyish-white metal",
-  },
-  {
-    word: "mobile",
-    hint: "an electronic device",
-  },
-  {
-    word: "gpu",
-    hint: "computer component",
-  },
-  {
-    word: "java",
-    hint: "programming language",
-  },
-  {
-    word: "google",
-    hint: "famous search engine",
-  },
-  {
-    word: "venice",
-    hint: "famous city of waters",
-  },
-  {
-    word: "excel",
-    hint: "microsoft product for windows",
-  },
-  {
-    word: "mysql",
-    hint: "a relational database system",
-  },
-  {
-    word: "nepal",
-    hint: "developing country name",
-  },
-  {
-    word: "flute",
-    hint: "a musical instrument",
-  },
-  {
-    word: "crypto",
-    hint: "related to cryptocurrency",
-  },
-  {
-    word: "tesla",
-    hint: "unit of magnetic flux density",
+    word: "goal",
+    hint: "an objective or target",
   },
   {
     word: "mars",
-    hint: "planet of our solar system",
+    hint: "red planet of our solar system",
   },
   {
-    word: "proxy",
-    hint: "related to server application",
+    word: "platinum",
+    hint: "a precious silvery-white metal",
   },
   {
-    word: "email",
-    hint: "related to exchanging message",
+    word: "amazon",
+    hint: "an online shopping platform",
   },
   {
-    word: "html",
-    hint: "markup language for the web",
+    word: "swift",
+    hint: "programming language for Apple development",
   },
   {
-    word: "air",
-    hint: "related to a gas",
+    word: "algorithm",
+    hint: "a step-by-step computational process",
   },
   {
-    word: "idea",
-    hint: "a thought or suggestion",
+    word: "inception",
+    hint: "a mind-bending science fiction movie",
   },
   {
-    word: "server",
-    hint: "related to computer or system",
+    word: "debug",
+    hint: "to identify and remove errors",
   },
   {
-    word: "svg",
-    hint: "a vector image format",
+    word: "interstellar",
+    hint: "a movie about space exploration",
   },
   {
-    word: "jpeg",
-    hint: "a image file format",
+    word: "bmp",
+    hint: "bitmap image file format",
   },
   {
-    word: "search",
-    hint: "act to find something",
+    word: "psychology",
+    hint: "study of the mind and behavior",
   },
   {
-    word: "key",
-    hint: "small piece of metal",
+    word: "atlas",
+    hint: "a collection of maps",
   },
   {
-    word: "egypt",
-    hint: "a country name",
+    word: "peninsula",
+    hint: "land surrounded by water on three sides",
   },
   {
-    word: "joker",
-    hint: "a popular psychological thriller film",
+    word: "cricket",
+    hint: "a popular outdoor game",
   },
   {
-    word: "dubai",
-    hint: "a developed country name",
+    word: "scrabble",
+    hint: "a word-based indoor game",
   },
   {
-    word: "photo",
-    hint: "representation of person or scene",
+    word: "telegram",
+    hint: "a messaging platform",
   },
   {
-    word: "nile",
-    hint: "largest river in the world",
+    word: "bitbucket",
+    hint: "version control platform",
   },
   {
-    word: "rain",
-    hint: "drops of water come from sky",
+    word: "tiff",
+    hint: "an image file format",
+  },
+  {
+    word: "bronze",
+    hint: "a brownish metal alloy",
+  },
+  {
+    word: "tablet",
+    hint: "a handheld electronic device",
+  },
+  {
+    word: "cpu",
+    hint: "brain of the computer",
+  },
+  {
+    word: "kotlin",
+    hint: "programming language for Android",
+  },
+  {
+    word: "bing",
+    hint: "a search engine by Microsoft",
+  },
+  {
+    word: "paris",
+    hint: "city of lights",
+  },
+  {
+    word: "word",
+    hint: "Microsoft office software",
+  },
+  {
+    word: "postgresql",
+    hint: "an advanced database system",
+  },
+  {
+    word: "bhutan",
+    hint: "a small Himalayan kingdom",
+  },
+  {
+    word: "drum",
+    hint: "a percussion musical instrument",
+  },
+  {
+    word: "blockchain",
+    hint: "technology behind cryptocurrency",
+  },
+  {
+    word: "newton",
+    hint: "unit of force in physics",
+  },
+  {
+    word: "jupiter",
+    hint: "largest planet in our solar system",
+  },
+  {
+    word: "firewall",
+    hint: "a security system for networks",
+  },
+  {
+    word: "chat",
+    hint: "online text communication",
+  },
+  {
+    word: "css",
+    hint: "stylesheet language for web design",
+  },
+  {
+    word: "oxygen",
+    hint: "essential gas for life",
+  },
+  {
+    word: "concept",
+    hint: "an abstract idea",
+  },
+  {
+    word: "router",
+    hint: "device for network connection",
+  },
+  {
+    word: "webp",
+    hint: "modern image file format",
+  },
+  {
+    word: "pdf",
+    hint: "a document file format",
+  },
+  {
+    word: "explore",
+    hint: "to travel or investigate",
+  },
+  {
+    word: "lock",
+    hint: "device for securing something",
+  },
+  {
+    word: "canada",
+    hint: "a country in North America",
+  },
+  {
+    word: "thanos",
+    hint: "a fictional character from a movie",
+  },
+  {
+    word: "tokyo",
+    hint: "capital city of Japan",
+  },
+  {
+    word: "snapshot",
+    hint: "a quick photograph",
+  },
+  {
+    word: "amazon",
+    hint: "largest river in South America",
+  },
+  {
+    word: "snow",
+    hint: "frozen water crystals falling from the sky",
   },
 ];
 
@@ -208,8 +208,9 @@ let hintBox = document.querySelector(".hintBox");
 let wordBoxes = document.querySelector("#word");
 let selectedWord = "";
 let selectedHint = "";
-let wordNumber;
+let wordNumber = 0;
 let time;
+let isGameStarted = false;
 
 function changeScore(point) {
   score.innerHTML = Number(score.innerHTML) + point;
@@ -232,31 +233,31 @@ function resetKeys() {
 }
 
 function startTimer() {
-  time = 3;
+  time = 30;
   let interval = setInterval(() => {
+    if (!isGameStarted) {
+      clearInterval(interval);
+      return;
+    }
+
     timeContainer.style.backgroundColor = "green";
     timer.innerHTML = " " + time;
 
     if (time === 0) {
+      isGameStarted = false;
       timeContainer.style.backgroundColor = "red";
       clearInterval(interval);
       setTimeout(() => {
         alert("Time is up!");
       }, 1);
-      start.nextWord.removeEventListener("click", goToNextWord);
+      nextWord.removeEventListener("click", goToNextWord);
       keys.forEach((element) => {
-        element.removeEventListener(
-          "click",
-          fillTheLetters
-        ); /*deyir remove'lanmaram ki remove'lanmaram :( */
+        element.removeEventListener("click", fillTheLetters);
       });
     }
 
     time--;
   }, 1000);
-  start.addEventListener("click", () => {
-    clearInterval(interval);
-  });
 }
 
 function createBoxes() {
@@ -267,11 +268,12 @@ function createBoxes() {
     wordBoxes.appendChild(div);
   }
 }
+
 function onStartGame() {
   wordNumber = 0;
   selectedWord = wordList[wordNumber].word;
   selectedHint = wordList[wordNumber].hint;
-  wordBoxes.style.backgroundColor = "rgb(197, 184, 184, 0)";
+  wordBoxes.style.backgroundColor = "rgba(197, 184, 184, 0)";
   wordBoxes.style.padding = "0px";
   wordBoxes.style.width = "40%";
   createBoxes();
@@ -301,37 +303,47 @@ function fillTheLetters(e) {
 }
 
 function onStartButton() {
-  score.innerHTML = "";
-  resetKeys();
-  onStartGame();
-  startTimer();
-  hintButton.addEventListener("click", showHint);
-  nextWord.addEventListener("click", goToNextWord);
+  if (!isGameStarted) {
+    isGameStarted = true;
+    score.innerHTML = "0";
+    resetKeys();
+    onStartGame();
+    startTimer();
+    hintButton.addEventListener("click", showHint);
+    nextWord.addEventListener("click", goToNextWord);
 
-  keys.forEach((element) => {
-    element.addEventListener("click", fillTheLetters);
-  });
+    keys.forEach((element) => {
+      element.addEventListener("click", fillTheLetters);
+    });
+  }
 }
+
 start.addEventListener("click", onStartButton);
 
 function goToNextWord() {
-  wordNumber++;
-  if (wordNumber < wordList.length) {
-    selectedWord = wordList[wordNumber].word;
-    selectedHint = wordList[wordNumber].hint;
-    createBoxes();
-    hintBox.style.display = "none";
-  } else {
-    alert("You've completed all words!");
+  if (isGameStarted) {
+    wordNumber++;
+    if (wordNumber < wordList.length) {
+      selectedWord = wordList[wordNumber].word;
+      selectedHint = wordList[wordNumber].hint;
+      createBoxes();
+      hintBox.style.display = "none";
+    } else {
+      alert("You've completed all words!");
+      isGameStarted = false;
+    }
+    resetKeys();
   }
-  resetKeys();
 }
 
 function showHint() {
-  hintBox.style.display = "block";
-  hintBox.innerHTML = "";
-  let div = document.createElement("p");
+  if (isGameStarted) {
+    hintBox.style.display = "block";
+    hintBox.innerHTML = "";
+    let div = document.createElement("p");
 
-  div.innerHTML = selectedHint;
-  hintBox.appendChild(div);
+    div.innerHTML = selectedHint;
+    hintBox.appendChild(div);
+  }
 }
+

@@ -60,13 +60,17 @@ form {
   color: white;
   text-align: center;
   border-radius: 50%;
-  width: 8%;
+  width: 10%;
   padding: 2.5% 0;
 }
 .start {
   padding: 0.8% 5%;
   font-size: 18px;
   background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  text-align: center;
+  cursor: pointer;
 }
 #word {
   width: 28%;
@@ -132,9 +136,19 @@ li {
   font-size: 14px;
   background-color: white;
   text-align: center;
+  cursor: pointer; 
+  border-radius: 4px; 
+  transition: background-color 0.3s ease; 
+}
+
+.next_word:hover,
+.hint:hover {
+  background-color: #f0f0f0;
 }
 .hintBox {
   margin-top: 5%;
+  margin-right: -5%;
+  margin-left: -5%;
   background-color: white;
   text-align: center;
   padding: 20%;
